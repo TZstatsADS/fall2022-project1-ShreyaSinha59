@@ -1,7 +1,7 @@
 # Applied Data Science @ Columbia
 ## Fall 2022
 ## Project 1: Does Feminism change with time?
-<img src="figs/100126-the-glass.jpeg" width="500">
+
 
 ### [Project Description](doc/)
 
