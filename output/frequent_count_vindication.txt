@@ -1,0 +1,12 @@
+woman         636
+man           311
+men           299
+mind          286
+virtue        272
+             ... 
+downwards       1
+extremely       1
+coquettish      1
+conceals        1
+provender       1
+Length: 6620, dtype: int64
