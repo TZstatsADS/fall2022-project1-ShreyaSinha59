@@ -2,5 +2,5 @@
 
 ### Code dev/lib Folder
 
-The lib directory contains various files with function definitions and computation codes for your data analysis. Here we have included the code for plotting.
+The lib directory contains various files with function definitions and computation codes for your data analysis. Here we have included the code for plotting in the file plotting code.ipynb
 
