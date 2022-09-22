@@ -2,7 +2,7 @@
 
 ### Doc folder
 
-The doc directory contains the report or presentation files. It contains the ipynb file which containes the Report which ana;lyzes the philosophy that if concept of Philosophy changes over time or not?
+The doc directory contains the report or presentation files. It contains the ipynb file which containes the Report which analyzes the philosophy that if concept of Feminism changes over time or not? The file is called - report.ipynb
 
 
 
