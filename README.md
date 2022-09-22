@@ -30,5 +30,5 @@ proj/
 Please see each subfolder for a README file.
 
 # To Reproduce this Project
-1. Download the dataset from Kaggle and then use it. 
-2. The generated report is present in docs.
+1. Download the dataset from data folder 
+2. Use the file in doc i.e report.ipynb to use it.
