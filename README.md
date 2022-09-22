@@ -28,3 +28,7 @@ proj/
 ```
 
 Please see each subfolder for a README file.
+
+# To Reproduce this Project
+1. Download the dataset from Kaggle and then use it. 
+2. The generated report is present in docs.
