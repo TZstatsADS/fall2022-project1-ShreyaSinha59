@@ -8,10 +8,12 @@
 
 Term: Fall 2022
 
-+ Projec title: 
-+ This project is conducted by [your name]
++ Project title: 
++ This project is conducted by Shreya Sinha
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: The project explores changes in the concept of Feminism through time. It was 1919 when women finally got the right to vote.It was in 1848 when the first women convention was organized. My text contains philosophers of feminism from 3 eras- 1792,1949 and 1981. I want to explore if the philosphy of feminism changed through errors or not. 
+
+![alt text](https://miro.medium.com/max/1400/0*VqRgL0Us6RZzPXvA.gif)
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
